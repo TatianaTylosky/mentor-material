@@ -42,7 +42,7 @@ This session is also based on a 30-minute session - do we want to include a note
 <!-- The headings below aren't constructed in parallel. Each sub-heading should either be a noun ("Goal Breakdown") or an instruction ("State Your Purpose")
 	-->
 
-**State Your Purpose and Agenda*
+**State Your Purpose and Agenda**
 Get right down to business. Exude energy and a sense of urgency. (<1 minute)
 
 **Socratic Seminar**
