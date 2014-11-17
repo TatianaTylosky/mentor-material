@@ -9,7 +9,7 @@
 
 **Chapter 5** | The Socratic Method and 6 Other Awesome Coaching Strategies
 
-**Chapter 6** | Emergency Mentor Moments -- What to do During Extra Tough Mentor Situations
+**Chapter 6** | Emergency Mentor Moments -- What to Do During Extra Tough Mentor Situations
 
 ##Chapter 1
 ####Our Learning Philosophy Here at Thinkful 
