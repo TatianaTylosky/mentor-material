@@ -6,7 +6,7 @@
 
 **Chapter 3** | Your First Mentor Session
 
-***Chapter 4** | The Socratic Method and XXX Other Awesome Coaching Strategies
+***Chapter 4** | The Socratic Method and Other Awesome Coaching Strategies
 
 **Chapter 5** | How to be a Badass Mentor
 
@@ -37,16 +37,16 @@ To keep our students engaged and excited to learn, our courses are project-drive
 
 Here is a brief overview of the tools you will be using as a Thinkful Mentor
 
-+*Gmail* | You have been setup with an @thinkful.com email address. Please use this address to communicate with your students and Thinkful HQ - feel free to forward messages to your regular email if you’d like!
++ *Gmail* | You have been setup with an @thinkful.com email address. Please use this address to communicate with your students and Thinkful HQ - feel free to forward messages to your regular email if you’d like!
 
-+*Slack* | Slack is our community portal for both mentors and students. We have two different “teams” on slack - one for students, and another for mentors/staff (thinkful-students.slack.com vs. thinkful.slack.com). You can think of these as the student lounge and the faculty lounge. As a mentor, you’ll have access to both. Feel free to use this tool as much or as little as you would like, and keep in mind that it’s a great place to meet other mentors and ask questions about the mentoring process. It’s also a great place to promote your side projects and meet awesome developers from all over the world!
++ *Slack* | Slack is our community portal for both mentors and students. We have two different “teams” on slack - one for students, and another for mentors/staff (thinkful-students.slack.com vs. thinkful.slack.com). You can think of these as the student lounge and the faculty lounge. As a mentor, you’ll have access to both. Feel free to use this tool as much or as little as you would like, and keep in mind that it’s a great place to meet other mentors and ask questions about the mentoring process. It’s also a great place to promote your side projects and meet awesome developers from all over the world!
 
-+*Mentor Panel* (thinkful.com/patel/mentor_panel) | This is your home page at Thinkful. From your mentor panel, you can:
-+Set and update your availability (keep an eye on the time zone!)
-+Adjust the number of students you would like to mentor
-+Find all of your students, their courses, and your meeting times/days
-+Record all of your session notes
-+It is extremely important that you record session notes after every session. These notes help us keep track of student progress and make sure students’ needs are being met. If a student doesn’t show up for a session, be sure to log “Session did not occur” in your notes for the week. 
++ *Mentor Panel* (thinkful.com/patel/mentor_panel) | This is your home page at Thinkful. From your mentor panel, you can:
++ Set and update your availability (keep an eye on the time zone!)
++ Adjust the number of students you would like to mentor
++ Find all of your students, their courses, and your meeting times/days
++ Record all of your session notes
++ It is extremely important that you record session notes after every session. These notes help us keep track of student progress and make sure students’ needs are being met. If a student doesn’t show up for a session, be sure to log “Session did not occur” in your notes for the week. 
 
 +*Video Chat* (Google Hangouts, TokBox, Skype, or your prefered tool) | You will be meeting with your student each week at the same time using your favorite video chat tool. Please make sure both you and your student test this tool before your first session - there’s nothing more frustrating than excitement devolving into frustration when it takes forever to connect due to technical reasons. Be sure to *over* communicate to your students when and how you will be meeting, and be sure to show up at least 5 minutes before your session. 
 
@@ -60,19 +60,19 @@ When you are first matched with a student, you will receive an email from our st
 **Before Your First Session**
 Prior to meeting with a student for the first time, please take a few steps to ensure you’re ready to be the best mentor they could have hoped for. These steps include:
 
-+An email sent before the session that introduces you, a bit of your work, and asks the student if they have any questions ahead of your initial meeting
++ An email sent before the session that introduces you, a bit of your work, and asks the student if they have any questions ahead of your initial meeting
 
-+Checking to make sure your video chat platform is working. Be sure to check both the camera and the microphone!
++ Checking to make sure your video chat platform is working. Be sure to check both the camera and the microphone!
 
-+Familiarizing yourself with the curriculum 
++ Familiarizing yourself with the curriculum 
 
-+As a mentor, we don’t expect you to read every word of every course you’re mentoring. However, it is important to take a look at the concepts and goals introduced at each step during the course. Please take some time to understand what’s being asked of your students so you can be in the best position to anticipate their questions or pain points. 
++ As a mentor, we don’t expect you to read every word of every course you’re mentoring. However, it is important to take a look at the concepts and goals introduced at each step during the course. Please take some time to understand what’s being asked of your students so you can be in the best position to anticipate their questions or pain points. 
 
-+Preparing clarifying questions 
++ Preparing clarifying questions 
 
-+Whether or not the student has specific questions for you, you should have a list of questions prepared for your student. These questions should be comprehension checks for material covered in the first several lessons of the course. 
++ Whether or not the student has specific questions for you, you should have a list of questions prepared for your student. These questions should be comprehension checks for material covered in the first several lessons of the course. 
 
-+Getting online at least 5 minutes before your session. 
++ Getting online at least 5 minutes before your session. 
 
 **During Your First Session**
 
@@ -94,7 +94,7 @@ Congrats! You’ve now made it through your first mentor session and are well on
 
 ￼
 ##Chapter 4
-#### The Socratic Method and XXX Other Coaching Strategies
+#### The Socratic Method and Other Coaching Strategies
 
 Every student has a different learning style, and no two sessions will be exactly the same. Sometimes, your student will come prepared with a list of questions and difficult concepts. Othertimes, they will simply show up and expect you to drive the session. By familiarizing yourself with the strategies below and using the right ones at the right times, you will ensure that every minute spent with your student is helping them with their work. 
 
