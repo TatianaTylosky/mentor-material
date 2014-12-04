@@ -188,7 +188,7 @@ Research proves that deep learning occurs when new knowledge is linked with prio
 **Speaking of Fun…**
 
 The best way to be certain your student is enjoying the sessions is to make sure you are! Have fun with your student - we don’t want Thinkful to feel like a ‘job’ for you or your students. Bring in real world example, discuss hypothetical situations, make jokes about Flash - learning to code can be extremely challenging, and the goal is for students to look forward to meeting each week with a friend who wants them to love coding as much as they do. 
-￼
+
 ---
 
 ##Chapter 6
