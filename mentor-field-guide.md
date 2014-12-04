@@ -6,7 +6,7 @@
 
 **Chapter 3** | Your First Mentor Session
 
-***Chapter 4** | The Socratic Method and Other Awesome Coaching Strategies
+**Chapter 4** | The Socratic Method and Other Awesome Coaching Strategies
 
 **Chapter 5** | How to be a Badass Mentor
 
@@ -15,6 +15,8 @@
 **Chapter 7** | Conclusion
 
 <!---**Appendix** | Additional Resources for Mentors-->
+
+---
 
 ##Chapter 1
 ####Welcome to Thinkful!
@@ -30,29 +32,34 @@ We are laser-focused on student success. Other companies focus on producing cont
 
 To keep our students engaged and excited to learn, our courses are project-driven. Lessons begin with projects that guide this learning. A project-driven structure allows students to learn from real-world experiences, draw connections to those experiences, and internalize new ideas. No boring lectures. No endless chunks of text. As a mentor, you are an essential ingredient for the success of both your students and our mission, and we couldn’t be happier to have you on the team. Welcome to Thinkful!
 
-
+---
 
 ##Chapter 2
 ####Mentorship Behind the Scenes
 
 Here is a brief overview of the tools you will be using as a Thinkful Mentor
 
-+ *Gmail* | You have been setup with an @thinkful.com email address. Please use this address to communicate with your students and Thinkful HQ - feel free to forward messages to your regular email if you’d like!
+**Gmail** | You have been setup with an @thinkful.com email address. Please use this address to communicate with your students and Thinkful HQ - feel free to forward messages to your regular email if you’d like!
 
-+ *Slack* | Slack is our community portal for both mentors and students. We have two different “teams” on slack - one for students, and another for mentors/staff (thinkful-students.slack.com vs. thinkful.slack.com). You can think of these as the student lounge and the faculty lounge. As a mentor, you’ll have access to both. Feel free to use this tool as much or as little as you would like, and keep in mind that it’s a great place to meet other mentors and ask questions about the mentoring process. It’s also a great place to promote your side projects and meet awesome developers from all over the world!
+**Slack** | Slack is our community portal for both mentors and students. We have two different “teams” on slack - one for students, and another for mentors/staff (thinkful-students.slack.com vs. thinkful.slack.com). You can think of these as the student lounge and the faculty lounge. As a mentor, you’ll have access to both. Feel free to use this tool as much or as little as you would like, and keep in mind that it’s a great place to meet other mentors and ask questions about the mentoring process. It’s also a great place to promote your side projects and meet awesome developers from all over the world!
 
-+ *Mentor Panel* (thinkful.com/patel/mentor_panel) | This is your home page at Thinkful. From your mentor panel, you can:
-+ Set and update your availability (keep an eye on the time zone!)
-+ Adjust the number of students you would like to mentor
-+ Find all of your students, their courses, and your meeting times/days
-+ Record all of your session notes
-+ It is extremely important that you record session notes after every session. These notes help us keep track of student progress and make sure students’ needs are being met. If a student doesn’t show up for a session, be sure to log “Session did not occur” in your notes for the week. 
+**Mentor Panel** (thinkful.com/patel/mentor_panel) | This is your home page at Thinkful. From your mentor panel, you can:
 
-+*Video Chat* (Google Hangouts, TokBox, Skype, or your prefered tool) | You will be meeting with your student each week at the same time using your favorite video chat tool. Please make sure both you and your student test this tool before your first session - there’s nothing more frustrating than excitement devolving into frustration when it takes forever to connect due to technical reasons. Be sure to *over* communicate to your students when and how you will be meeting, and be sure to show up at least 5 minutes before your session. 
+* Set and update your availability (keep an eye on the time zone!)
+
+* Adjust the number of students you would like to mentor
+
+* Find all of your students, their courses, and your meeting times/days
+
+* Record all of your session notes
+
+* It is extremely important that you record session notes after every session. These notes help us keep track of student progress and make sure students’ needs are being met. If a student doesn’t show up for a session, be sure to log “Session did not occur” in your notes for the week. 
+
+**Video Chat** (Google Hangouts, TokBox, Skype, or your prefered tool) | You will be meeting with your student each week at the same time using your favorite video chat tool. Please make sure both you and your student test this tool before your first session - there’s nothing more frustrating than excitement devolving into frustration when it takes forever to connect due to technical reasons. Be sure to *over* communicate to your students when and how you will be meeting, and be sure to show up at least 5 minutes before your session. 
 
 When you are first matched with a student, you will receive an email from our student support team introducing you to your mentee. It’s a great practice to write the student directly to both introduce yourself and set the tone for your sessions. Be brief, be funny, be awesome. Ask your student if they have any questions before your first session, and let them know you’re excited to be working with them!
 
-
+---
 
 ##Chapter 3
 ####Your First Mentor Session
@@ -92,7 +99,8 @@ Two to three days after your session, it’s a great habit to send your student 
 
 Congrats! You’ve now made it through your first mentor session and are well on your way to becoming a Thinkful Ninja (Thinja?). Remember, you can always reach out to the Thinkful HQ mentor team if you have any questions or issues. 
 
-￼
+---
+
 ##Chapter 4
 #### The Socratic Method and Other Coaching Strategies
 
@@ -131,6 +139,8 @@ The non-Socratic response would be, “Because you can’t concatenate strings a
 The Socratic response would be, “Well, what are you trying to do? Ok, what do we know about data types? How can we check what data types we’re dealing with? Is there a way for us to turn these into the same data type? Now what happens?”
 
 As you can see, this response is not as quick as the simple answer, but the methodology is incredibly important. Simply supplying the student with an answer encourages her to fix their code and move on. Asking “scaffolding questions,’ on the other hand, encourages them to think more deeply about the concepts involved and the desired output, and taking this Socratic approach will help develop your student’s critical thinking skills. 
+
+---
 
 ##Chapter 5
 ####How to Be a Badass Mentor
@@ -179,6 +189,8 @@ Research proves that deep learning occurs when new knowledge is linked with prio
 
 The best way to be certain your student is enjoying the sessions is to make sure you are! Have fun with your student - we don’t want Thinkful to feel like a ‘job’ for you or your students. Bring in real world example, discuss hypothetical situations, make jokes about Flash - learning to code can be extremely challenging, and the goal is for students to look forward to meeting each week with a friend who wants them to love coding as much as they do. 
 ￼
+---
+
 ##Chapter 6
 ####Mentor FAQ’s
 
@@ -207,6 +219,8 @@ If students repeatedly refuse to meet let us know as soon as possible. We’ll f
 Hmmm. It depends. From our experience, the course material is foundational for building more advanced skills. The concepts that students often want to cover outside of the curriculum usually require a strong grasp of curriculum content if they wish to excel. 
 Students don’t want to replace curriculum content, they want to supplement it.
 If students persist, assess where the students are at. If they have a strong grasp of the concept to engage the side project, feel free to do it. If they haven’t gained the necessary foundational skills to accomplish their project ideas — walk them through exactly why veering away from the curriculum is a bad idea.
+
+---
 
 ##Conclusion
 ####Go Forth and Think
