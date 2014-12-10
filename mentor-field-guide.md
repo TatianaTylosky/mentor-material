@@ -19,7 +19,7 @@
 ---
 
 ##Chapter 1
-###Welcome to Thinkful!
+####Welcome to Thinkful!
 We are laser-focused on student success. Other companies focus on producing content; we’re fans of them, and even use their content, but we’re in a different business. We don’t want to produce learning materials, we want to produce *learning*. We’re not satisfied with people buying our courses; we expect to provide the optimal conditions for them to actually learn. At Thinkful, these conditions are based on three core pillars:
 
 
@@ -35,7 +35,7 @@ To keep our students engaged and excited to learn, our courses are project-drive
 ---
 
 ##Chapter 2
-###Mentorship Behind the Scenes
+####Mentorship Behind the Scenes
 
 Here is a brief overview of the tools you will be using as a Thinkful Mentor
 
@@ -62,7 +62,7 @@ When you are first matched with a student, you will receive an email from our st
 ---
 
 ##Chapter 3
-###Your First Mentor Session
+####Your First Mentor Session
 
 **Before Your First Session**
 Prior to meeting with a student for the first time, please take a few steps to ensure you’re ready to be the best mentor they could have hoped for. These steps include:
@@ -102,7 +102,7 @@ Congrats! You’ve now made it through your first mentor session and are well on
 ---
 
 ##Chapter 4
-### The Socratic Method and Other Coaching Strategies
+#### The Socratic Method and Other Coaching Strategies
 
 Every student has a different learning style, and no two sessions will be exactly the same. Sometimes, your student will come prepared with a list of questions and difficult concepts. Othertimes, they will simply show up and expect you to drive the session. By familiarizing yourself with the strategies below and using the right ones at the right times, you will ensure that every minute spent with your student is helping them with their work. 
 
@@ -143,7 +143,7 @@ As you can see, this response is not as quick as the simple answer, but the meth
 ---
 
 ##Chapter 5
-###How to Be a Badass Mentor
+####How to Be a Badass Mentor
 
 As a mentor, you are the reason students sign up to work with Thinkful. Now that you know some teaching strategies to use during your sessions, let’s look at some general pro tips to help you, and your student, get the most out of every moment you spend together. 
 
@@ -188,11 +188,11 @@ Research proves that deep learning occurs when new knowledge is linked with prio
 **Speaking of Fun…**
 
 The best way to be certain your student is enjoying the sessions is to make sure you are! Have fun with your student - we don’t want Thinkful to feel like a ‘job’ for you or your students. Bring in real world example, discuss hypothetical situations, make jokes about Flash - learning to code can be extremely challenging, and the goal is for students to look forward to meeting each week with a friend who wants them to love coding as much as they do. 
-
+￼
 ---
 
 ##Chapter 6
-###Mentor FAQ’s
+####Mentor FAQ’s
 
 Below, find some of the most common questions we get from mentors. Don’t see your question here? Email us or find us on Slack! We promise to get back to you ASAP.
 
@@ -223,13 +223,13 @@ If students persist, assess where the students are at. If they have a strong gra
 ---
 
 ##Conclusion
-###Go Forth and Think
+####Go Forth and Think
 
 That’s all folks! Once again, welcome to the team. We’re glad to have you, and hope you get as much out of mentorship as possible. Remember to always record session notes right after meeting with a student, and know that those of us in the office are always happy to hear from you with questions large or small. We encourage you to log into Slack and introduce yourself to the other mentors, and look forward to getting you your first students soon. 
 
 <!---
 ##Appendix
-###Useful Resources for Mentors
+####Useful Resources for Mentors
 
 Below, find some tools our mentors already use and love. Please feel free to explore these resources and use those you find helpful. Don’t see your favorite tool? Tell us about it by emailing zac@thinkful.com
 
@@ -269,45 +269,13 @@ They learn a lot from seeing how you deal with not knowing something. If they on
 * Patience, patience, patience. We as teachers / mentors have the "curse of knowledge". It's easy to forget what it's like not to know something. Constantly trying to find new ways to explain things is an excellent exercise that solidifies our own knowledge as well as builds an arsenal of ways to teach different students the same subject.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Record yourself mentoring and watch it back. It's generally shocking, but you learn a lot about what you do well and badly.
+
 
 Don't worry if you have a bad session - it happens. But after any bad session try to think about why it went badly, and what could have been done to change it.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Often as a mentor I find myself giving my students advice on being a freelancer, selling yourself, and really awesome SEO and online marketing blogs and websites to follow. I think it's equally as important to know how to market yourself as it is to be competent as a programmer.
-
-
-
-
 
 
 This book is amazing for anyone involved in teaching or studying:
@@ -315,11 +283,4 @@ This book is amazing for anyone involved in teaching or studying:
 Make it Stick: The Science of Successful Learning
 Peter C. Brown, et al
 Belknap Press, 2014
-
-
-
-
-
-
-
 -->
