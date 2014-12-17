@@ -1,5 +1,3 @@
-https://github.com/Thinkful-Ed/mentor-material/blob/master/mentor-field-guide.md
-
 #Table of Contents
 
 **Chapter 1** | Welcome to Thinkful!
@@ -125,16 +123,16 @@ As you probably know, teaching is a _great_ way to learn. Ask your students to t
 You know how people say they “hit a wall” when learning something new? Scaffolding is building steps so anyone can safely climb over any wall of knowledge.
  
 Some things Thinkful does to scaffold curriculum:
--Breaking courses into assignments (mini-lessons)
--Gradually increasing the complexity throughout the course (geared towards absolute beginners)
--Having students commit project intermittently so Mentors can view progress before students submit a completed project
--Describing objectives in the unit/lesson intros
++ Breaking courses into assignments (mini-lessons)
++ Gradually increasing the complexity throughout the course (geared towards absolute beginners)
++ Having students commit project intermittently so Mentors can view progress before students submit a completed project
++ Describing objectives in the unit/lesson intros
 
 A few things you can do to scaffold curriculum:
--Send students a list of terms to know before they start a lesson 
--Relate new lessons/assignments to skills/concepts learned previously
--Show students models or examples of what they will be building 
--Share follow-up readings or set an additional stretch goal with your students
++ Send students a list of terms to know before they start a lesson 
++ Relate new lessons/assignments to skills/concepts learned previously
++ Show students models or examples of what they will be building 
++ Share follow-up readings or set an additional stretch goal with your students
 
 **Code Tour**
 
