@@ -97,15 +97,18 @@ A non-socratic response might be:  “_Because you can’t concatenate strings a
 A socratic response might look like this:
 
  Mentor: “_What are you trying to do with this code?_”
+ 
  Student: “_I’m trying to print ‘yes’ and ‘3’ on the same line_”
+ 
  Mentor: “_Ok, what data type is ‘yes’?_”
+ 
  Student: “_It’s a string._”
+ 
  Mentor: “_Yup.  And what data type is ‘3’?_”
+ 
  Student: “_3 is an integer._”
+ 
  Mentor: “_Yup!  Now, can you concatenate a string and an integer in Python?_”
-
-
-
 
 _Socratic Response_: “What are you trying to do? What do we know about data types? How can we check what data types we’re dealing with? Is there a way for us to turn these into the same data type? Now what happens?”
 
