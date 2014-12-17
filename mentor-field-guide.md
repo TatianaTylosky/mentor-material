@@ -21,25 +21,26 @@ https://github.com/Thinkful-Ed/mentor-material/blob/master/mentor-field-guide.md
 ##Chapter 1
 ####Welcome to Thinkful!
 
-“If you give a man a fish, he will eat for a day. If you teach a man to fish, he will eat for life.” This proverb is a great analogy for Thinkful’s mission!* 
+[“If you give a man a fish, he will eat for a day. If you teach a man to fish, he will eat for life.” This proverb is a great analogy for Thinkful’s mission! 
 
 Thinkful was founded by Dan Friedman and Darrell Silver in 2012 in New York City. On a mission to reinvent education, Thinkful teaches the workforce sustainable career skills. 
 
 Help us advance careers by providing goal oriented one-on-one mentorship to Thinkful students. Our courses are project-driven and supported by a thriving student community. We believe relationships drive learning. As a mentor, the relationships you build are essential for the success of both your students and our mission. We couldn’t be happier to have you on the team. Welcome to Thinkful!
 
-*Although we don’t currently cover fishing or phishing in any of our courses... 
+Although we don’t currently cover fishing or phishing in any of our courses... ]
 ---
 
 ##Chapter 2
 ####Mentorship Behind the Scenes
 
 Here’s a brief overview of the tools you will be using as a Thinkful Mentor.
-Thinkful’s Learning App
-Your Mentor Panel
-Thinkful.com Email
-#Slack
-GitHub
-Video Chat
+
+ * Thinkful’s Learning App
+ * Your Mentor Panel
+ * Thinkful.com Email
+ * Slack
+ * GitHub
+ * Video Chat
 
 
 [**Thinkful’s Learning App**] (https://courses.thinkful.com) is home to all of our course content.  As a mentor, you’ll have access to all of the content for each of our courses.  Students will only have access to the material for the courses they’re enrolled in.
@@ -78,8 +79,7 @@ We host all of our **course content** on GitHub as Markdown, which we then compi
 ##Chapter 3
 ####Your First Mentor Session
 
-Coming soon. Working doc here. 
----
+Coming soon. [Working doc here](https://docs.google.com/a/thinkful.com/document/d/1Yevjl6sOkYXcrCNYPPTH74oxtyR8l-ssIuYxY-hFpUI/edit)
 
 
 ##Chapter 4
@@ -105,7 +105,7 @@ A socratic response might look like this:
  * Student: “_It’s a string._”
  * Me: “_Yup.  And what data type is ‘3’?_”
  * Student: “_3 is an integer._”
- * Me: “Yup!  Now, can you concatenate a string and an integer in Python?_”
+ * Me: “_Yup!  Now, can you concatenate a string and an integer in Python?_”
 
 
 
@@ -216,9 +216,9 @@ If you are planning a vacation please let us know at least two weeks in advance 
 
 **What do I invoice you for exactly?**
 
-We estimate about an hour per week for each student, 45 minutes in session + 15 minutes dedicated to completing session records and corresponding with students. That said, we are more interested in successful student outcomes than a few extra minutes on an invoice. As long as you feel like your student is respecting your time and any communication boundaries you've set with them, you’re welcome to work with them and bill us for the time.* Send invoices to invoices@thinkful.com.
+We estimate about an hour per week for each student, 45 minutes in session + 15 minutes dedicated to completing session records and corresponding with students. That said, we are more interested in successful student outcomes than a few extra minutes on an invoice. As long as you feel like your student is respecting your time and any communication boundaries you've set with them, you’re welcome to work with them and bill us for the time. Send invoices to invoices@thinkful.com.
 
-*If this starts to look like a different product model where your student sees you as “on-call” or you’re providing multiple sessions per week, let us know. Remind your student to attend office hours and leverage the student community for support as well!
+If this starts to look like a different product model where your student sees you as “on-call” or you’re providing multiple sessions per week, let us know. Remind your student to attend office hours and leverage the student community for support as well!
 ---
 
 ##Conclusion
