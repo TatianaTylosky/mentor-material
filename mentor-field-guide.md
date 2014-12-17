@@ -25,7 +25,7 @@ Thinkful was founded by Dan Friedman and Darrell Silver in 2012 in New York City
 
 Help us advance careers by providing goal oriented one-on-one mentorship to Thinkful students. Our courses are project-driven and supported by a thriving student community. We believe relationships drive learning. As a mentor, the relationships you build are essential for the success of both your students and our mission. We couldn’t be happier to have you on the team. Welcome to Thinkful!
 
- * Although we don’t currently cover fishing or phishing in any of our courses... 
+* Although we don’t currently cover fishing or phishing in any of our courses... 
 
 ##Chapter 2
 ####Mentorship Behind the Scenes
