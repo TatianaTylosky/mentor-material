@@ -12,7 +12,7 @@ https://github.com/Thinkful-Ed/mentor-material/blob/master/mentor-field-guide.md
 
 **Chapter 5** | Mentor FAQ’s
 
-**Chapter ?** | Conclusion
+**Chapter 6** | Conclusion
 
 **Appendix** | Additional Resources for Mentors
 
@@ -33,45 +33,54 @@ Help us advance careers by providing goal oriented one-on-one mentorship to Thin
 ##Chapter 2
 ####Mentorship Behind the Scenes
 
-Here is a brief overview of the tools you will be using as a Thinkful Mentor.
-
-**EAGLE**| Is home to all of our project driven course content. 
-Courses landing page (same view student sees + all courses)
-
-
-
-**Mentor Panel** (thinkful.com/patel/mentor_panel) | 
-Mentor Panel Home Screen
+Here’s a brief overview of the tools you will be using as a Thinkful Mentor.
+Thinkful’s Learning App
+Your Mentor Panel
+Thinkful.com Email
+#Slack
+GitHub
+Video Chat
 
 
-* Set and update your availability (keep an eye on the time zone!) and the number of students you would like to mentor
-Setting Availability
-
-
-* Schedule and view all of your students, their courses, and your meeting times/days
-take_student
-
-
-* Record all of your session notes
-Session notes
+[**Thinkful’s Learning App**] (https://courses.thinkful.com) is home to all of our course content.  As a mentor, you’ll have access to all of the content for each of our courses.  Students will only have access to the material for the courses they’re enrolled in.
 
 
 
-**Gmail** | You have been setup with an @thinkful.com email address. Please use this address to communicate with your students and Thinkful HQ.
-Tip: Synch your email and calendar invites with your personal accounts so you never miss a moment!
 
-**Slack** | Slack is our community portal. We have two different “teams” on slack - one for students, and another for mentors/staff (thinkful-students.slack.com vs. thinkful.slack.com). You can think of these as the student lounge and the faculty lounge. Share resources, ask and answer questions, post invitations, promote projects, hang out and make friends across the globe!
+The [**Mentor Panel**](thinkful.com/patel/mentor_panel) is your administrative panel for students.  Once you have students, you’ll see each of them here.  For each student you can record session notes and change the day and time of your weekly sessions.
 
-**Video Chat** (Google Hangouts, TokBox, Skype, or your prefered tool) | You will be meeting with your student each week at the same time using your favorite video chat tool. Please make sure both you and your student test this tool before your first session. 
 
-**GitHub**
----
+Recording sessions is super important.  It’s the best way for you to keep track of your student’s goals and progress, and it’s a key internal metric at Thinkful.  If you aren’t sure how to properly record a session reach out right away.
+
+
+
+
+
+You can also set and update your [availability](thinkful.com/user/#/availability) (keep an eye on the time zone!) and your student bandwidth.
+
+
+
+We usually match students with mentors by hand, but now you can [claim available students](thinkful.com/patel/take_student/) on your own!
+
+
+Your thinkful.com email is a [**Google Apps**](mail.google.com) account. Your Thinkful email is the primary way you’ll stay in touch with your students and with HQ.  We’ll reach out to this email with general announcements and actionable items like notifications about student project submissions.
+
+We love [**Slack**](slack.comm).  We host the [student community](thinkful-students.slack.com) on one slack team and have another, [internal team](thinkful.slack.com), just for us.  You can think of these as the student lounge and the faculty lounge. Share resources, ask and answer questions, post invitations, promote projects, hang out and make friends across the globe!
+
+You’ll use **video chat** for your weekly meetings with your students.  You’re set up with a default meetingplace at:
+
+thinkful.com/hangout/[username]
+
+where [username] is your @thinkful.com email address.  This link points to a permanent Google Hangout, though we’re currently experimenting with other technologies.  We’ll always share this with you and your students when we make an introduction, so make sure you both you and your student test this tool before your first session. 
+
+We host all of our **course content** on GitHub as Markdown, which we then compile.  As a mentor, you’ll have access to the source code for the courses youll work with and you’re welcome to open issues or submit pull requests if you think we can make things better.
 
 ##Chapter 3
 ####Your First Mentor Session
 
-Coming soon. 
+Coming soon. Working doc here. 
 ---
+
 
 ##Chapter 4
 #### The Socratic Method and Other Coaching Strategies
@@ -80,23 +89,36 @@ A coach is someone who can give correction without causing resentment. - John Wo
 
 **Be a Coach**
 
-Just like no two games are the same, no two sessions will be the same. Every student has a different learning style, it’s up to you to write their playbook. Hold you students accountable to themselves. Know their strengths and weaknesses. Plan drills and set training schedules. Use the strategies below to ensure every minute spent with your student is working toward achieving their goal. 
+Just like no two games are the same, no two sessions will be the same. Every student has a different learning style, and it’s up to you to write their playbook. Hold your students accountable to themselves. Know their strengths and weaknesses. Plan drills and set training schedules. Use the strategies below to ensure every minute spent with your student is working toward achieving their goal. 
 
 **Socratic Method**
 
-Python student: “Why doesn’t this code work?: `print ‘yes’ + 3`”
+The Socratic Method is ancient educational technology.  It’s also [state of the art](http://jorendorff.github.io/hackday/2013/tutoring).  Here’s an example.  Let’s say a student came and asked you: “Why doesn’t this Python code work?: `print ‘yes’ + 3`”
 
-Socratic Response: “What are you trying to do? What do we know about data types? How can we check what data types we’re dealing with? Is there a way for us to turn these into the same data type? Now what happens?”
+A non-socratic response might be:  “_Because you can’t concatenate strings and integers._”
 
-Non-Socratic Response: “Because you can’t concatenate strings and integers.” While that answer is true, it doesn’t help the student understand why you can’t add the two. 
+A socratic response might look like this:
+
+ * Me: “_What are you trying to do with this code?_”
+ * Student: “_I’m trying to print ‘yes’ and ‘3’ on the same line_”
+ * Me: “_Ok, what data type is ‘yes’?_”
+ * Student: “_It’s a string._”
+ * Me: “_Yup.  And what data type is ‘3’?_”
+ * Student: “_3 is an integer._”
+ * Me: “Yup!  Now, can you concatenate a string and an integer in Python?_”
+
+
+
+
+_Socratic Response_: “What are you trying to do? What do we know about data types? How can we check what data types we’re dealing with? Is there a way for us to turn these into the same data type? Now what happens?”
+
+While that answer is true, it doesn’t help the student understand why you can’t add the two. 
 
 As you can see, the Socratic response is not as quick as the simple answer, but the methodology is incredibly important. Encourage students to problem solve by engaging in a discourse which builds upon their prior knowledge. 
 
-*Now this is teaching someone how to fish...
-
 **Teach the Teacher**
 
-Teaching is a great way to learn. Have your students teach you concepts they learned the prior week. Articulating new concepts builds confidence, cements knowledge and will help the student discover gaps in her learning.
+As you probably know, teaching is a _great_ way to learn. Ask your students to teach you concepts they learned the prior week or used in their recent projects. Articulating new concepts builds confidence, cements knowledge and will help the student discover gaps in her learning.
 
 **Scaffolding**
  
@@ -114,9 +136,13 @@ A few things you can do to scaffold curriculum:
 -Show students models or examples of what they will be building 
 -Share follow-up readings or set an additional stretch goal with your students
 
+**Code Tour**
+
+Many students can make something that works without understanding *why* it works. Asking them to review their code and explain what each line does, allows them to recognize the “why” behind each action. Be sure to call out areas that could be improved with questions like, “Why did you choose to call this method?” or “Are there any other ways that can be done?” In a code tour, you can also suggest other implementation alternatives, challenging the student to weigh all options.
+
 **Code Review**
 
-Many students can make something that works without understanding *why* it works. Asking them to review their code and explain what each line does, allows them to recognize the “why” behind each action. Be sure to call out areas that could be improved with questions like, “Why did you choose to call this method?” or “Are there any other ways that can be done?” In a code review, you can also suggest other implementation alternatives, challenging the student to weigh all options.
+To come.
 
 **Pair Programming**
 
@@ -136,91 +162,84 @@ Similarly, avoid explicitly stating that your student has made a mistake. Let yo
 
 ---
 
+
+
 ##Chapter 5
 ####Mentor FAQ’s
 
-Below, find some of the most common questions we get from mentors. Don’t see your question here? Email us or find us on Slack! We will get back to you ASAP.
+Here are some of the most common questions we get from mentors. Don’t see your question here? Email us or find us on slack! We’ll get back to you ASAP.
 
 **The course uses one tool, I usually use another, is that ok?**
 
-Yes. Part of being a mentor is sharing your best practices, workflows and tools with students. If want to introduce a tool you believe will serve your student’s long term goal, please share it with them, especially if it is a free resource. (And be patient helping them set it up.)
+Yes. Part of being a mentor is sharing your best practices, workflows and tools with students. If want to introduce a tool you believe will serve your student’s long term goal, please share it with them (and be patient helping them set it up).
 
 **My student wants to skip this week's session.**
 
-Use all of your power to make the meeting happen. As the course work gets tougher, and life gets busier, engagement with mentors becomes more essential for students. Not having completed work or understanding everything are both used by students as reasons to skip mentor sessions. Ask them to commit to meeting for only 10 minutes even if they have no material prepared. Treat the time like a sprint meeting.
+Nope.  Use all of your power to make the meeting happen. As the course work gets tougher and life intervenes it gets tempting to skip sessions. Sometimes students think it’s a waste of time to meet if they haven’t made progress, but the opposite is true.  Ask them to commit to meeting for only 10 minutes even if they have no material prepared.
 
 10 Minute Activities:
-share a best practice
-introduce developer tools
-start the next project together
-example
-example
-example (requires no preparation)
+Share a best practice
+Introduce developer tools
+Start the next project together
+Chat about tools or the news
 
 **My student didn't do any work this week. At all.**
 
 See “My student wants to skip this week’s session.”
 
-**My student is continually missing sessions.**
+**My student missed a couple sessions.**
 
-One common area of confusion is what to do when a student fails to attend sessions. (It happens, we all have students stand us up.) Here is what to do:
+Ok, so your student missed your first session, or they missed two in a row.  It happens. Here is what to do:
 
-Log the missed session in your mentor panel (make a note if you know why)
-Do your best to connect with the student and see if you two can reschedule within the week
-If your student is radio-silent for a full week send another note, this time cc support@thinkful.com
-Support will contact student (keeping you cc'd)
-If support does not hear back within the week they will withdraw your student
-One week later the system will remove this student from your list of active students making way for a new student eager to learn with you!
+1. Log the missed session in your [mentor panel](thinkful.com/patel/mentor_panel) and make a note if you know why
+2. Do your best to connect with the student and see if you two can reschedule within the week
+3. Email support@thinkful.com so we can ping them as well
 
-Our mighty support team is here for you and your students! Be sure to direct your students here if they need help with enrollment status, extensions, certificates, etc. We’ll follow up with them to see if there’s anything we can do to better support them meet their commitment and goals. 
+Support will be sure to copy you on emails with the student.  Sometimes people just disappear; if we never hear back we’ll go ahead and remove them from your calendar.
+
+**My student is behind pace**
+Thinkful courses are self paced, so students can’t _truly_ get behind pace.  That said, most students want to finish the course in a few months and it’s good to hold them accountable to those goals.  If a student falls behind the pacing goals they set for themselves be honest with them about their pace and motivate them to put in the hours each week to get back on top.
 
 **What should I do if a student wants to go way off the curriculum?**
 
-Hmmm. It depends. From our experience, the course material is foundational for building more advanced skills. The concepts that students often want to cover outside of the curriculum usually require a strong grasp of curriculum content if they wish to excel. 
-Students don’t want to replace curriculum content, they want to supplement it.
-If students persist, assess where the students are at. If they have a strong grasp of the concept to engage the side project, feel free to do it. If they haven’t gained the necessary foundational skills to accomplish their project ideas — walk them through exactly why veering away from the curriculum is a bad idea.
+Hmmm. It depends. From our experience, the courses cover the foundations for building more advanced skills. Understanding concepts outside of the curriculum usually takes a strong grasp of curriculum content.
+
+If you have a motivated student who wants to cover the course material and then extend to cover other topics, that’s great.  But don’t let them skip past the basic stuff if they don’t understand it and get mired down in more complex topics.
+
+For students like that, it’s great to challenge them to complete a project and show you that they have the chops for advanced work.  If they can’t do the easy stuff, walk them through exactly why veering away from the curriculum is a bad idea.
 
 **I won’t be able to attend this week’s session**
 
-Life happens (even to the best of us!), and there may be sessions you are simply unable to attend. When this happens, please connect with your student and try to reschedule for another time *that same week*. If you expect to be absent for more than a week, or cannot reschedule with your student, please contact support@thinkful.com for help. 
+Life happens (even to the best of us!), and there may be sessions you simply can’t attend. When this happens, connect with your student and try to reschedule for another time *that same week*. If you expect to be absent for more than a week, or cannot reschedule with your student, email support@thinkful.com and we can either line up another mentor to cover or adjust your student’s enrollment period. 
 
-If you are planning a vacation please let us know at least two weeks in advance so we can make plans too!
+If you are planning a vacation please let us know at least two weeks in advance so we can make plans for your students too!
 
 **What do I invoice you for exactly?**
 
-We estimate about an hour/per week/per student, 45 mins in session + 15mins dedicated to completing session records and corresponding with students. That said, we are more interested in successful student outcomes than a few extra minutes on an invoice. As long as you feel like your student is respecting your time and any communication boundaries you've set with them, we are happy for you to work with them and bill us for the time.* Send invoices to invoices@thinkful.com.
+We estimate about an hour per week for each student, 45 minutes in session + 15 minutes dedicated to completing session records and corresponding with students. That said, we are more interested in successful student outcomes than a few extra minutes on an invoice. As long as you feel like your student is respecting your time and any communication boundaries you've set with them, you’re welcome to work with them and bill us for the time.* Send invoices to invoices@thinkful.com.
 
 *If this starts to look like a different product model where your student sees you as “on-call” or you’re providing multiple sessions per week, let us know. Remind your student to attend office hours and leverage the student community for support as well!
 ---
 
 ##Conclusion
 
-Like our students, Thinkful Mentors must have curiosity, enthusiasm and grit to learn to refine their own expertise along the way. We hope this experience will enrich your career. Thinkful may not be your last job, but we want to make it the one you're most proud of. We also want it to be the most engaging one you have today. 
+Like our students, we have curiosity, enthusiasm and grit.  We learn to refine our own expertise along the way. We hope this experience will enrich your career. Thinkful may not be your last job, but we want to make it the one you're most proud of. We also want it to be the most engaging one you have today. 
 
 BE IN TOUCH. We are happy to hear from you with any question, comment or concern. 
 
-Keep an eye open for opportunities to grow beyond mentorship at Thinkful. Mentors have grown to become major contributors in the following areas:
-office hours
-blog posts
-programming guides
-in-person events
-curriculum development
-community building
 
-
-
-
 <!---
 ##Appendix
 ####Useful Resources for Mentors
-
-Below, find some tools our mentors already use and love. Please feel free to explore these resources and use those you find helpful. Or better yet make a PULL REQUEST about your favorite resource and we will publish it for the group!
-
-Thinkful Mentor Pro Tips! Share yours here today!
 Link to all survey responses
+Below, find some tools our mentors already use and love. Please feel free to explore these resources and use those you find helpful. Or better yet make a PULL REQUEST to tell the community about your favorite trick or technique. We will publish(push?) it for the group!
+
+**Tools**
 Can't live without madeye.io
 http://www.codeshare.io/ 
 repl.it
+
+**Words of Wisdom**
 
 I try to make my students feel as though I am on their team, working together to find the solution in the code.
 
