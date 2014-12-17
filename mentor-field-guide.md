@@ -19,13 +19,13 @@
 ##Chapter 1
 ####Welcome to Thinkful!
 
-“If you give a man a fish, he will eat for a day. If you teach a man to fish, he will eat for life.” This proverb is a great analogy for Thinkful’s mission! * 
+“If you give a man a fish, he will eat for a day. If you teach a man to fish, he will eat for life.” * This proverb is a great analogy for Thinkful’s mission!  
 
 Thinkful was founded by Dan Friedman and Darrell Silver in 2012 in New York City. On a mission to reinvent education, Thinkful teaches the workforce sustainable career skills. 
 
 Help us advance careers by providing goal oriented one-on-one mentorship to Thinkful students. Our courses are project-driven and supported by a thriving student community. We believe relationships drive learning. As a mentor, the relationships you build are essential for the success of both your students and our mission. We couldn’t be happier to have you on the team. Welcome to Thinkful!
 
-\*Although we don’t currently cover fishing or phishing in any of our courses...\
+\*Although we don’t currently cover fishing or phishing in any of our courses...
 
 ##Chapter 2
 ####Mentorship Behind the Scenes
@@ -96,13 +96,13 @@ A non-socratic response might be:  “_Because you can’t concatenate strings a
 
 A socratic response might look like this:
 
- * Me: “_What are you trying to do with this code?_”
- * Student: “_I’m trying to print ‘yes’ and ‘3’ on the same line_”
- * Me: “_Ok, what data type is ‘yes’?_”
- * Student: “_It’s a string._”
- * Me: “_Yup.  And what data type is ‘3’?_”
- * Student: “_3 is an integer._”
- * Me: “_Yup!  Now, can you concatenate a string and an integer in Python?_”
+ Mentor: “_What are you trying to do with this code?_”
+ Student: “_I’m trying to print ‘yes’ and ‘3’ on the same line_”
+ Mentor: “_Ok, what data type is ‘yes’?_”
+ Student: “_It’s a string._”
+ Mentor: “_Yup.  And what data type is ‘3’?_”
+ Student: “_3 is an integer._”
+ Mentor: “_Yup!  Now, can you concatenate a string and an integer in Python?_”
 
 
 
@@ -157,9 +157,6 @@ Instead, it is more effective to provide indirect positive feedback by objective
 
 Similarly, avoid explicitly stating that your student has made a mistake. Let your students find their own errors. Provide hints by asking about specific lines of code and why they wrote it that way. Keep working backward until they are able to self-correct.
 
----
-
-
 
 ##Chapter 5
 ####Mentor FAQ’s
@@ -216,7 +213,6 @@ If you are planning a vacation please let us know at least two weeks in advance 
 We estimate about an hour per week for each student, 45 minutes in session + 15 minutes dedicated to completing session records and corresponding with students. That said, we are more interested in successful student outcomes than a few extra minutes on an invoice. As long as you feel like your student is respecting your time and any communication boundaries you've set with them, you’re welcome to work with them and bill us for the time. Send invoices to invoices@thinkful.com.
 
 If this starts to look like a different product model where your student sees you as “on-call” or you’re providing multiple sessions per week, let us know. Remind your student to attend office hours and leverage the student community for support as well!
----
 
 ##Conclusion
 
