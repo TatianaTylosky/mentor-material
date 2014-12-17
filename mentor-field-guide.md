@@ -178,10 +178,10 @@ Yes. Part of being a mentor is sharing your best practices, workflows and tools 
 Nope.  Use all of your power to make the meeting happen. As the course work gets tougher and life intervenes it gets tempting to skip sessions. Sometimes students think it’s a waste of time to meet if they haven’t made progress, but the opposite is true.  Ask them to commit to meeting for only 10 minutes even if they have no material prepared.
 
 10 Minute Activities:
-Share a best practice
-Introduce developer tools
-Start the next project together
-Chat about tools or the news
++ Share a best practice
++ Introduce developer tools
++ Start the next project together
++ Chat about tools or related dev news
 
 **My student didn't do any work this week. At all.**
 
