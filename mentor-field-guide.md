@@ -116,10 +116,6 @@ While that answer is true, it doesn’t help the student understand why you can�
 
 As you can see, the Socratic response is not as quick as the simple answer, but the methodology is incredibly important. Encourage students to problem solve by engaging in a discourse which builds upon their prior knowledge. 
 
-**Teach the Teacher**
-
-As you probably know, teaching is a _great_ way to learn. Ask your students to teach you concepts they learned the prior week or used in their recent projects. Articulating new concepts builds confidence, cements knowledge and will help the student discover gaps in her learning.
-
 **Scaffolding**
  
 You know how people say they “hit a wall” when learning something new? Scaffolding is building steps so anyone can safely climb over any wall of knowledge.
@@ -135,6 +131,10 @@ A few things you can do to scaffold curriculum:
 + Relate new lessons/assignments to skills/concepts learned previously
 + Show students models or examples of what they will be building 
 + Share follow-up readings or set an additional stretch goal with your students
+
+**Teach the Teacher**
+
+As you probably know, teaching is a _great_ way to learn. Ask your students to teach you concepts they learned the prior week or used in their recent projects. Articulating new concepts builds confidence, cements knowledge and will help the student discover gaps in her learning.
 
 **Code Tour**
 
