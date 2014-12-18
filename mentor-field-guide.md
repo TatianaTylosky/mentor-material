@@ -76,8 +76,7 @@ We host all of our **course content** on GitHub as Markdown, which we then compi
 ##Chapter 3
 ####Your First Mentor Session
 
-Coming soon. [Working doc here](https://docs.google.com/a/thinkful.com/document/d/1Yevjl6sOkYXcrCNYPPTH74oxtyR8l-ssIuYxY-hFpUI/edit)
-
+Coming soon. 
 
 ##Chapter 4
 #### The Socratic Method and Other Coaching Strategies
