@@ -146,7 +146,7 @@ To come.
 
 **Pair Programming**
 
-Pair programming is a great way to teach students how to tackle problems, and gives them incredible insight to a method that many programmers use every day. Read up on Pair-Programming Styles. We recommend you be the navigator! Tools like madeye.io and nitrous.io are great for this, but feel free to suggest your favorite.
+Pair programming is a great way to teach students how to tackle problems, and gives them incredible insight to a method that many programmers use every day. Read up on [Pair-Programming Styles] (http://agilerichmond.com/attachments/article/82/Pair%20Programming%20Handout.pdf). We recommend you be the navigator! Tools like madeye.io and nitrous.io are great for this, but feel free to suggest your favorite.
 
 **Awesome Analogies**
 
