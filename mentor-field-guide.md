@@ -50,15 +50,20 @@ The [**Mentor Panel**](thinkful.com/patel/mentor_panel) is your administrative p
 
 Recording sessions is super important.  It’s the best way for you to keep track of your student’s goals and progress, and it’s a key internal metric at Thinkful.  If you aren’t sure how to properly record a session reach out right away.
 
-
+![alt text](Assets/SessionRecords.gif "Session Records")
 
 
 
 You can also set and update your [availability](thinkful.com/user/#/availability) (keep an eye on the time zone!) and your student bandwidth.
 
 
+![alt text](Assets/AvailabilitySlow.gif "Availability")
+
 
 We usually match students with mentors by hand, but now you can [claim available students](thinkful.com/patel/take_student/) on your own!
+
+
+![alt text](Assets/TakeStudent.gif "Take Student")
 
 
 Your thinkful.com email is a [**Google Apps**](mail.google.com) account. Your Thinkful email is the primary way you’ll stay in touch with your students and with HQ.  We’ll reach out to this email with general announcements and actionable items like notifications about student project submissions.
