@@ -74,6 +74,7 @@ We host all of our [**course content** on GitHub] (https://github.com/Thinkful-E
 When students sign up for Thinkful they are excited to begin learning something new. The first 45 minutes you spend with any student is crucial for maintaining that excitement. You will have a successful first session if you achieve two things with your student.
 
 *Build a relationship
+
 *Set learning goals
 
 You will have successful ongoing sessions if you set high expectations and routines with your student as well. 
@@ -92,7 +93,7 @@ Be prepared to suggest customized learning paths and pacing through course based
 
 Time: 5 MINUTES
 
-Introduce yourself. Send a bio, a blog, a joke. Your students are curious about you and your professional experience! Begin building that relationship and tell them you are looking forward to meeting them at [CONFIRM DAY | TIME | TIMEZONE | LOCATION]. You may also want to include any relevant system set-up tips or tricks to help your student feel confident prior to your session. 
+Introduce yourself. Send a bio, a blog, a joke. Your students are curious about you and your professional experience! Begin building that relationship and tell them you are looking forward to meeting them at (confirm day/time/timezone/loaction). You may also want to include any relevant system set-up tips or tricks to help your student feel confident prior to your session. 
 
 ####During Your First Session
 #####Build a relationship
@@ -101,9 +102,13 @@ Time: 15 - 25 MINUTES
 Use the first session to learn about your student. 
 
 *work experience
+
 *work habits
+
 *coding experience _(ask follow up questions and get details)_
+
 *past projects
+
 *fun facts
 
 By understanding what brought your student to Thinkful and knowing what their short and long term goals are you will be a more effective mentor. 
@@ -115,10 +120,14 @@ Time: 10 - 20 MINUTES
 **Tips for setting goals**
 
 *Listen and ask lots of questions of your student.
+
 *Map students’ short term goals to the curriculum.
+
 *Goals can task based or time based.
+
 *Treat weekly goals as sprint goals and work with your student to define _why_ this goal, _how_ to achieve it and your _metric for success_.
-*Push back where goals are unrealistic
+
+*Push back where goals are unrealistic.
 
 No matter how motivated students are, what courses they take, or how much they pay, students will not be able to achieve their goals unless they create conditions for rigorous learning. Spend time setting clear expectations about the course, what it covers and how it’s structured. We believe the value of Thinkful is found in time spent with you, their mentor. Explain ways in which student’s can maximize on their time with you each week. _Show up. Ask questions. Share work ahead of sessions. Etc._
 
@@ -135,6 +144,7 @@ While you will spend a large portion of this session simply talking with your ne
 
 ####After Your First Session
 **Completing Session Records**
+
 Time: 10 MINUTES
 
 Visit the Mentor Panel and fill out your session notes for the meeting. This is an essential way for you, and for us, to keep track of your student’s progress. Remember, students will never have access to these notes, so be honest about their level of engagement and their progress. 
