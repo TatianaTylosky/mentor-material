@@ -127,7 +127,9 @@ A few things you can do to scaffold curriculum:
 
 **Teach the Teacher**
 
-As you probably know, teaching is a _great_ way to learn. Ask your students to teach you concepts they learned the prior week or used in their recent projects. Articulating new concepts builds confidence, cements knowledge and will help the student discover gaps in her learning.
+As you probably know, teaching is a _great_ way to learn. Ask your students to teach you concepts they learned the prior week or used in recent projects. Articulating new concepts builds confidence, cements knowledge and will help students discover gaps in their learning. 
+
+_Tip: This is a great technique to use when your student is rushing through material; take five and confirm they're retaining the concepts covered!_
 
 **Code Tour**
 
