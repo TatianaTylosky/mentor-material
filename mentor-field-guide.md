@@ -147,11 +147,11 @@ Research proves that deep learning occurs when new knowledge is linked with prio
 
 **Personal Praise v. Process Praise**
 
-Personal praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes.
-
-Instead, it is more effective to provide feedback on a student's process by objectively stating how hard a problem was and acknowledge the student's problem solving approach or work ethic. The student will deduce the praise themselves! 
+Personal praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes. Instead, it is more effective to provide feedback on a student's process by objectively stating how hard a problem was and acknowledge the student's problem solving approach or work ethic. 
 
 Similarly, avoid explicitly stating that your student has made a mistake. Let your students find their own errors. Provide hints by asking about specific lines of code and why they wrote it that way. Keep working backward until they are able to self-correct.
+
+Learning requires tenacity. Internalizing pride takes work. Read more about [process praise here] (https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes).
 
 ##Chapter 5
 ###Mentor FAQ’s
