@@ -117,6 +117,10 @@ By understanding what brought your student to Thinkful and knowing what their sh
 
 Time: 10 - 20 MINUTES
 
+No matter how motivated students are, what courses they take, or how much they pay, students will not be able to achieve their goals unless they create conditions for rigorous learning. Spend time setting clear expectations about the course, what it covers and how it’s structured. We believe the value of Thinkful is found in time spent with you, their mentor. Explain ways in which student’s can maximize on their time with you each week. _Show up. Ask questions. Share work ahead of sessions. Etc._
+
+Don’t be afraid to be honest with your student about the time commitment required to succeed. Taking a Thinkful course is like attending graduate school part time. Talk with your student about their work schedule and other commitments. Help them manage their time and encourage them reserve blocks on their calendar to devote to course work. This is an awesome undertaking and they must respect their own commitment to [the process] (http://norvig.com/21-days.html). 
+
 **Tips for setting goals**
 
 *Listen and ask lots of questions of your student.
@@ -128,10 +132,6 @@ Time: 10 - 20 MINUTES
 *Treat weekly goals as sprint goals and work with your student to define _why_ this goal, _how_ to achieve it and your _metric for success_.
 
 *Push back where goals are unrealistic.
-
-No matter how motivated students are, what courses they take, or how much they pay, students will not be able to achieve their goals unless they create conditions for rigorous learning. Spend time setting clear expectations about the course, what it covers and how it’s structured. We believe the value of Thinkful is found in time spent with you, their mentor. Explain ways in which student’s can maximize on their time with you each week. _Show up. Ask questions. Share work ahead of sessions. Etc._
-
-Don’t be afraid to be honest with your student about the time commitment required to succeed. Taking a Thinkful course is like attending graduate school part time. Talk with your student about their work schedule and other commitments. Help them manage their time and encourage them reserve blocks on their calendar to devote to course work. This is an awesome undertaking and they must respect their own commitment to [the process] (http://norvig.com/21-days.html). 
 
 >_"At this point a look of fear and of being overwhelmed sets in and I assure them that they are gonna knock it out of the park.  I'll usually tell them to not memorized specifics but memorize the concepts.” -Derek Fogge, Thinkful Mentor_
 
