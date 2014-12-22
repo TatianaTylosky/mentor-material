@@ -79,15 +79,17 @@ A coach is someone who can give correction without causing resentment. - John Wo
 
 **Be a Coach**
 
-Just like no two games are the same, no two sessions will be the same. Every student has a different learning style, and it’s up to you to write their playbook. Hold your students accountable to themselves. Know their strengths and weaknesses. Plan drills and set training schedules. Use the strategies below to ensure every minute spent with your student is working toward achieving their goal. 
+Just like no two games are the same, no two sessions will be exactly alike. Every student has a different learning style, and it’s up to you to write their playbook. Hold your students accountable to themselves. Know their strengths and weaknesses. Plan drills and set training schedules. Use the strategies below to ensure every minute spent with your student is working toward achieving their goal. 
 
 **Socratic Method**
 
-The Socratic Method is ancient educational technology.  It’s also [state of the art](http://jorendorff.github.io/hackday/2013/tutoring).  Here’s an example.  Let’s say a student came and asked you: “Why doesn’t this Python code work?: `print ‘yes’ + 3`”
+The Socratic Method is ancient educational technology.  It’s also [state of the art](http://jorendorff.github.io/hackday/2013/tutoring).  Here’s an example:  Let’s say a student came and asked you: “Why doesn’t this Python code work?: `print ‘yes’ + 3`”
 
-A non-socratic response might be:  “_Because you can’t concatenate strings and integers._”
+A **non-Socratic** response might be:  “_Because you can’t concatenate strings and integers._”
 
-A socratic response might look like this:
+While that answer is *true*, it doesn’t help the student understand *why* you can’t add the two. 
+
+A Socratic response might look like this:
 
  Mentor: “_What are you trying to do with this code?_”
  
@@ -103,15 +105,13 @@ A socratic response might look like this:
  
  Mentor: “_Yup!  Now, can you concatenate a string and an integer in Python?_”
 
-_Socratic Response_: “What are you trying to do? What do we know about data types? How can we check what data types we’re dealing with? Is there a way for us to turn these into the same data type? Now what happens?”
+Summary: “What are you trying to do? What do we know about data types? How can we check what data types we’re dealing with? Is there a way for us to turn these into the same data type? Now what happens?”
 
-While that answer is true, it doesn’t help the student understand why you can’t add the two. 
-
-As you can see, the Socratic response is not as quick as the simple answer, but the methodology is incredibly important. Encourage students to problem solve by engaging in a discourse which builds upon their prior knowledge. 
+As you can see, the Socratic response is not as quick as the simple answer, but the methodology is incredibly important. Encourage students to solve problems by engaging in a discourse which builds upon their prior knowledge. 
 
 **Scaffolding**
  
-You know how people say they “hit a wall” when learning something new? Scaffolding is building steps so anyone can safely climb over any wall of knowledge.
+You know how people say they “hit a wall” when learning something new? Scaffolding is when we build steps to help people walk over that wall instead of hit it head on. 
  
 Some things Thinkful does to scaffold curriculum:
 + Breaking courses into assignments (mini-lessons)
@@ -133,7 +133,7 @@ _Tip: This is a great technique to use when your student is rushing through mate
 
 **Code Tour**
 
-Many students can make something that works without understanding *why* it works. Asking them to review their code and explain what each line does, allows them to recognize the “why” behind each action. Be sure to call out areas that could be improved with questions like, “Why did you choose to call this method?” or “Are there any other ways that can be done?” In a code tour, you can also suggest other implementation alternatives, challenging the student to weigh all options.
+Many students can make something that works without understanding *why* it works. Asking them to review their code and explain what each line does allows them to recognize the “why” behind each action. Be sure to call out areas that could be improved with questions like, “Why did you choose to call this method?” or “Are there any other ways that can be done?” In a code tour, you can also suggest other implementation alternatives, challenging the student to weigh all options.
 
 **Code Review**
 
@@ -141,7 +141,7 @@ To come.
 
 **Pair Programming**
 
-Pair programming is a great way to teach students how to tackle problems, and gives them incredible insight to a method that many programmers use every day. Read up on [Pair-Programming Styles] (http://agilerichmond.com/attachments/article/82/Pair%20Programming%20Handout.pdf). We recommend you be the navigator! Tools like madeye.io and nitrous.io are great for this, but feel free to suggest your favorite.
+Pair programming is a great way to teach students how to tackle problems and gives them incredible insight to a method that many programmers use every day. Read up on [Pair-Programming Styles] (http://agilerichmond.com/attachments/article/82/Pair%20Programming%20Handout.pdf). We recommend you be the navigator! Tools like madeye.io and nitrous.io are great for this, but feel free to suggest your favorite.
 
 **Awesome Analogies**
 
@@ -149,9 +149,9 @@ Research proves that deep learning occurs when new knowledge is linked with prio
 
 **Personal Praise v. Process Praise**
 
-Personal praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes. Instead, it is more effective to provide feedback on a student's process by objectively stating how hard a problem was and acknowledge the student's problem solving approach or work ethic. 
+Personal praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes. Instead, it is more effective to provide feedback on a student's process by objectively stating how hard a problem was and acknowledging the student's problem solving approach or her work ethic. 
 
-Similarly, avoid explicitly stating that your student has made a mistake. Let your students find their own errors. Provide hints by asking about specific lines of code and why they wrote it that way. Keep working backward until they are able to self-correct.
+Similarly, avoid explicitly stating that your student has made a mistake. Let your students find their own errors. Provide hints by asking about specific lines of code and why they wrote them that way. Keep working backward until they are able to self-correct.
 
 Learning requires tenacity. Internalizing pride takes work. Read more about [process praise here] (https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes).
 
