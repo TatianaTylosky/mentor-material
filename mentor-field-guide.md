@@ -17,7 +17,7 @@
 ---
 
 ##Chapter 1
-####Welcome to Thinkful!
+###Welcome to Thinkful!
 
 “If you give a man a fish, he will eat for a day. If you teach a man to fish, he will eat for life.” * This proverb is a great analogy for Thinkful’s mission!  
 
@@ -28,7 +28,7 @@ Help us advance careers by providing goal oriented one-on-one mentorship to Thin
 \*Although we don’t currently cover fishing or phishing in any of our courses...
 
 ##Chapter 2
-####Mentorship Behind the Scenes
+###Mentorship Behind the Scenes
 
 Here’s a brief overview of the tools you will be using as a Thinkful Mentor.
 
@@ -39,32 +39,21 @@ Here’s a brief overview of the tools you will be using as a Thinkful Mentor.
  * GitHub
  * Video Chat
 
+[**Thinkful’s Learning App**] (https://courses.thinkful.com) is home to all of our course content.  As a mentor, you have access to all of the content for each of our courses.  Students have access to the courses they’re enrolled in.
 
-[**Thinkful’s Learning App**] (https://courses.thinkful.com) is home to all of our course content.  As a mentor, you’ll have access to all of the content for each of our courses.  Students will only have access to the material for the courses they’re enrolled in.
-
-
-
-
-The [**Mentor Panel**](thinkful.com/patel/mentor_panel) is your administrative panel for students.  Once you have students, you’ll see each of them here.  For each student you can record session notes and change the day and time of your weekly sessions.
-
+The [**Mentor Panel**](thinkful.com/patel/mentor_panel) is your administrative panel for students.  Once you have students, you’ll see each of them scheduled here.  For each scheduled mentor session you will record session notes.
 
 Recording sessions is super important.  It’s the best way for you to keep track of your student’s goals and progress, and it’s a key internal metric at Thinkful.  If you aren’t sure how to properly record a session reach out right away.
 
 ![alt text](Assets/SessionRecords.gif "Session Records")
 
-
-
 You can also set and update your [availability](thinkful.com/user/#/availability) (keep an eye on the time zone!) and your student bandwidth.
-
 
 ![alt text](Assets/AvailabilitySlow.gif "Availability")
 
-
 We usually match students with mentors by hand, but now you can [claim available students](thinkful.com/patel/take_student/) on your own!
 
-
 ![alt text](Assets/TakeStudent.gif "Take Student")
-
 
 Your thinkful.com email is a [**Google Apps**](mail.google.com) account. Your Thinkful email is the primary way you’ll stay in touch with your students and with HQ.  We’ll reach out to this email with general announcements and actionable items like notifications about student project submissions.
 
@@ -79,12 +68,12 @@ where [username] is your @thinkful.com email address.  This link points to a per
 We host all of our **course content** on GitHub as Markdown, which we then compile.  As a mentor, you’ll have access to the source code for the courses youll work with and you’re welcome to open issues or submit pull requests if you think we can make things better.
 
 ##Chapter 3
-####Your First Mentor Session
+###Your First Mentor Session
 
 Coming soon. 
 
 ##Chapter 4
-#### The Socratic Method and Other Coaching Strategies
+###The Socratic Method and Other Coaching Strategies
 
 A coach is someone who can give correction without causing resentment. - John Wooden
 
@@ -126,8 +115,8 @@ You know how people say they “hit a wall” when learning something new? Scaff
  
 Some things Thinkful does to scaffold curriculum:
 + Breaking courses into assignments (mini-lessons)
-+ Gradually increasing the complexity throughout the course (geared towards absolute beginners)
-+ Having students commit project intermittently so Mentors can view progress before students submit a completed project
++ Gradually increasing the complexity throughout the course
++ Having students commit projects intermittently so Mentors can view progress before students submit a completed project
 + Describing objectives in the unit/lesson intros
 
 A few things you can do to scaffold curriculum:
@@ -156,17 +145,16 @@ Pair programming is a great way to teach students how to tackle problems, and gi
 
 Research proves that deep learning occurs when new knowledge is linked with prior knowledge. Analogies are a great way to do this. Use cars and their components to explain classes and fields, the animal kingdom to explain inheritance, shapes to explain polymorphism -- have fun with it!
 
-**Indirect Praise and Feedback**
+**Personal Praise v. Process Praise**
 
-Direct praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes.
+Personal praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes.
 
-Instead, it is more effective to provide indirect positive feedback by objectively stating how hard a problem was and acknowledge the student's problem solving approach or work ethic. The student will deduce the praise themselves! 
+Instead, it is more effective to provide feedback on a student's process by objectively stating how hard a problem was and acknowledge the student's problem solving approach or work ethic. The student will deduce the praise themselves! 
 
 Similarly, avoid explicitly stating that your student has made a mistake. Let your students find their own errors. Provide hints by asking about specific lines of code and why they wrote it that way. Keep working backward until they are able to self-correct.
 
-
 ##Chapter 5
-####Mentor FAQ’s
+###Mentor FAQ’s
 
 Here are some of the most common questions we get from mentors. Don’t see your question here? Email us or find us on slack! We’ll get back to you ASAP.
 
@@ -203,11 +191,9 @@ Thinkful courses are self paced, so students can’t _truly_ get behind pace.  T
 
 **What should I do if a student wants to go way off the curriculum?**
 
-Hmmm. It depends. From our experience, the courses cover the foundations for building more advanced skills. Understanding concepts outside of the curriculum usually takes a strong grasp of curriculum content.
+Confirm which skills and concepts they have mastered. (You should gain a good sense of this during your first session and you will watch the list grow each week.) From our experience, the courses provide foundations for building more advanced skills. Understanding concepts outside of the curriculum usually takes a strong grasp of curriculum content.
 
-If you have a motivated student who wants to cover the course material and then extend to cover other topics, that’s great.  But don’t let them skip past the basic stuff if they don’t understand it and get mired down in more complex topics.
-
-For students like that, it’s great to challenge them to complete a project and show you that they have the chops for advanced work.  If they can’t do the easy stuff, walk them through exactly why veering away from the curriculum is a bad idea.
+If you have a motivated student who wants to cover the course material and then extend to cover other topics, that’s great. Challenge them to complete a project and show you that they have the chops for advanced work. Only then is it appropriate to set "stretch" goals and training schedules for work which extends beyond the curricula.
 
 **I won’t be able to attend this week’s session**
 
@@ -221,7 +207,8 @@ We estimate about an hour per week for each student, 45 minutes in session + 15 
 
 If this starts to look like a different product model where your student sees you as “on-call” or you’re providing multiple sessions per week, let us know. Remind your student to attend office hours and leverage the student community for support as well!
 
-##Conclusion
+##Chapter 6
+###Conclusion
 
 Like our students, we have curiosity, enthusiasm and grit.  We learn to refine our own expertise along the way. We hope this experience will enrich your career. Thinkful may not be your last job, but we want to make it the one you're most proud of. We also want it to be the most engaging one you have today. 
 
