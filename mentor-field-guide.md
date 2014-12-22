@@ -114,15 +114,11 @@ Time: 10 - 20 MINUTES
 
 **Tips for setting goals**
 
-*listen and ask lots of questions of your student
-
-*map students’ short term goals to the curriculum
-
-*goals can task based or time based
-
-*treat weekly goals as sprint goals and work with your student to define: why this goal, how to achieve it and your metric for success
-
-*push back where goals are unrealistic
+*Listen and ask lots of questions of your student.
+*Map students’ short term goals to the curriculum.
+*Goals can task based or time based.
+*Treat weekly goals as sprint goals and work with your student to define _why_ this goal, _how_ to achieve it and your _metric for success_.
+*Push back where goals are unrealistic
 
 No matter how motivated students are, what courses they take, or how much they pay, students will not be able to achieve their goals unless they create conditions for rigorous learning. Spend time setting clear expectations about the course, what it covers and how it’s structured. We believe the value of Thinkful is found in time spent with you, their mentor. Explain ways in which student’s can maximize on their time with you each week. _Show up. Ask questions. Share work ahead of sessions. Etc._
 
@@ -133,14 +129,12 @@ Don’t be afraid to be honest with your student about the time commitment requi
 Remind students of resources to lean on outside of mentor sessions, a.k.a. #slack/stackoverflow/office-hours. Finally, set a specific goal for your student to achieve by your next meeting.
 
 #####’Roll Up Your Sleeves’
-
 Time: 0 - 20 MINUTES
 
 While you will spend a large portion of this session simply talking with your new students we encourage you to be “as hands on as possible” during this session. Working through a screen-shared exercise may help to overcome any intimidation, increase curiosity and maintain excitement! Playing with code during a first session is especially important for students who are brand-new to programming or who may less clear about their goals. Below we’ve listed some activities to use with your students during your time together. 
 
 ####After Your First Session
 **Completing Session Records**
-
 Time: 10 MINUTES
 
 Visit the Mentor Panel and fill out your session notes for the meeting. This is an essential way for you, and for us, to keep track of your student’s progress. Remember, students will never have access to these notes, so be honest about their level of engagement and their progress. 
