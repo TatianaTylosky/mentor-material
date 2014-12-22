@@ -73,46 +73,43 @@ We host all of our [**course content** on GitHub] (https://github.com/Thinkful-E
 #####Relationships drive learning
 When students sign up for Thinkful they are excited to begin learning something new. The first 45 minutes you spend with any student is crucial for maintaining that excitement. You will have a successful first session if you achieve two things with your student:
 
-+**Build a relationship**
-+**Set learning goals**
+-**Build a relationship**
+-**Set learning goals**
 
 You will have successful ongoing sessions if you set high expectations and routines with your student as well. 
 
 ####Before Your First Session
 
-*Before your _first_ first session, familiarize yourself with the curriculum* 
-
+**Before your _first_ first session, familiarize yourself with the curriculum** 
 Time: 1 HOUR
 
 Take a look at the concepts and projects outlined in your course. Do this by logging into our [learning app] (https://courses.thinkful.com) and reading through your course or going to our [course pages] (http://www.thinkful.com) and reviewing the syllabus available. _What is being asked of your students? How long will it take them? What will their progress tell you?_ Take some time to anticipate questions and pain-points. 
 
 Be prepared to suggest customized learning paths and pacing through course based on your student’s goals and experience. 
 
-*Before every first session, send an email to your student*
-
+**Before every first session, send an email to your student**
 Time: 5 MINUTES
 
 Introduce yourself. Send a bio, a blog, a joke. Your students are curious about you and your professional experience! Begin building that relationship and tell them you are looking forward to meeting them at [CONFIRM DAY | TIME | TIMEZONE | LOCATION]. You may also want to include any relevant system set-up tips or tricks to help your student feel confident prior to your session. 
 
 ####During Your First Session
 #####Build a relationship
-
 Time: 15 - 25 MINUTES
 
-Use the first session to learn about your student. Ask about their:
--work experience
--work habits
--coding experience _(ask follow up questions and get details)_
--past projects
--fun facts
+Use the first session to learn about your student. 
+
+*work experience
+*work habits
+*coding experience _(ask follow up questions and get details)_
+*past projects
+*fun facts
 
 By understanding what brought your student to Thinkful and knowing what their short and long term goals are you will be a more effective mentor. 
 
 #####Set Ambitious and Achievable Goals
-
 Time: 10 - 20 MINUTES
 
-Tips for setting goals:
+**Tips for setting goals**
 *listen and ask lots of questions of your student
 *map students’ short term goals to the curriculum
 *goals can task based or time based
@@ -123,27 +120,23 @@ No matter how motivated students are, what courses they take, or how much they p
 
 Don’t be afraid to be honest with your student about the time commitment required to succeed. Taking a Thinkful course is like attending graduate school part time. Talk with your student about their work schedule and other commitments. Help them manage their time and encourage them reserve blocks on their calendar to devote to course work. This is an awesome undertaking and they must respect their own commitment to [the process] (http://norvig.com/21-days.html). 
 
->_"At this point a look of fear and of being overwhelmed sets in and I assure them that they are gonna knock it out of the park.  I'll usually tell them to not memorized specifics but memorize the concepts.” -Derek Fogge, Thinkful Mentor_
+>_"At this point a look of fear and of being overwhelmed sets in and I assure them that they are gonna knock it out of the park.  I'll usually tell them to not memorized specifics but memorize the concepts.” 
+>-Derek Fogge, Thinkful Mentor_
 
 Remind students of resources to lean on outside of mentor sessions, a.k.a. #slack/stackoverflow/office-hours. Finally, set a specific goal for your student to achieve by your next meeting.
 
 #####’Roll Up Your Sleeves’
-
 Time: 0 - 20 MINUTES
 
 While you will spend a large portion of this session simply talking with your new students we encourage you to be “as hands on as possible” during this session. Working through a screen-shared exercise may help to overcome any intimidation, increase curiosity and maintain excitement! Playing with code during a first session is especially important for students who are brand-new to programming or who may less clear about their goals. Below we’ve listed some activities to use with your students during your time together. 
 
 ####After Your First Session
 **Completing Session Records**
-
 Time: 10 MINUTES
 
 Visit the Mentor Panel and fill out your session notes for the meeting. This is an essential way for you, and for us, to keep track of your student’s progress. Remember, students will never have access to these notes, so be honest about their level of engagement and their progress. 
 
-At the end of your first session you should make note of your student’s:
-*BACKGROUND
-*SHORT TERM GOALS
-*LONG TERM GOALS
+At the end of your first session you should make note of your student's background, short term and long term goals.
 
 **Cementing Communication Patterns**
 Establishing routines with your students from the beginning will help you build a successful working relationship. Setting patterns and boundaries around when and how you plan to interact with your student will save everyone headache down the road. 
