@@ -26,7 +26,7 @@ Thinkful was founded by Dan Friedman and Darrell Silver in 2012 in New York City
 Help us advance careers by providing goal oriented one-on-one mentorship to Thinkful students. Our courses are project-driven and supported by a thriving student community. We believe relationships drive learning. As a mentor, the relationships you build are essential for the success of both your students and our mission. We couldn’t be happier to have you on the team. Welcome to Thinkful!
 
 \*Although we don’t currently cover fishing or phishing in any of our courses...
-
+---
 ##Chapter 2
 ###Mentorship Behind the Scenes
 
@@ -66,7 +66,7 @@ thinkful.com/hangout/[username]
 where [username] is your @thinkful.com email address.  This link points to a permanent Google Hangout, though we’re currently experimenting with other technologies.  We’ll always share this with you and your students when we make an introduction, so make sure you both you and your student test this tool before your first session. 
 
 We host all of our [**course content** on GitHub] (https://github.com/Thinkful-Ed/) as Markdown, which we then compile.  As a mentor, you’ll have access to the source code for the courses youll work with and you’re welcome to open issues or submit pull requests if you think we can make things better.
-
+---
 ##Chapter 3
 ###Your First Mentor Session
 
@@ -125,8 +125,6 @@ Don’t be afraid to be honest with your student about the time commitment requi
 
 *Listen and ask lots of questions of your student.
 
-*Map students’ short term goals to the curriculum.
-
 *Goals can task based or time based.
 
 *Treat weekly goals as sprint goals and work with your student to define _why_ this goal, _how_ to achieve it and your _metric for success_.
@@ -141,6 +139,8 @@ Remind students of resources to lean on outside of mentor sessions, a.k.a. #slac
 Time: 0 - 20 MINUTES
 
 While you will spend a large portion of this session simply talking with your new students we encourage you to be “as hands on as possible” during this session. Working through a screen-shared exercise may help to overcome any intimidation, increase curiosity and maintain excitement! Playing with code during a first session is especially important for students who are brand-new to programming or who may less clear about their goals. Below we’ve listed some activities to use with your students during your time together. 
+
+_Course specific suggestions coming soon._
 
 ####After Your First Session
 **Completing Session Records**
@@ -160,7 +160,7 @@ It’s a best practice to send your student a short email reminding them what yo
 Alternately, ask students to send you status updates prior to your next scheduled session. If you haven’t heard from them 48 hours before your next session, make contact, and outline a few ways you can make progress together at your upcoming session. 
 
 Whichever approach you prefer, commit to it. 
-
+---
 ##Chapter 4
 ###The Socratic Method and Other Coaching Strategies
 
@@ -243,7 +243,7 @@ Personal praise like, “Wow, you did an amazing job!” or, “You are so good 
 Similarly, avoid explicitly stating that your student has made a mistake. Let your students find their own errors. Provide hints by asking about specific lines of code and why they wrote them that way. Keep working backward until they are able to self-correct.
 
 Learning requires tenacity. Internalizing pride takes work. Read more about [process praise here] (https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes).
-
+---
 ##Chapter 5
 ###Mentor FAQ’s
 
@@ -297,15 +297,16 @@ If you are planning a vacation please let us know at least two weeks in advance 
 We estimate about an hour per week for each student, 45 minutes in session + 15 minutes dedicated to completing session records and corresponding with students. That said, we are more interested in successful student outcomes than a few extra minutes on an invoice. As long as you feel like your student is respecting your time and any communication boundaries you've set with them, you’re welcome to work with them and bill us for the time. Send invoices to invoices@thinkful.com.
 
 If this starts to look like a different product model where your student sees you as “on-call” or you’re providing multiple sessions per week, let us know. Remind your student to attend office hours and leverage the student community for support as well!
-
+---
 ##Chapter 6
 ###Conclusion
 
 Like our students, we have curiosity, enthusiasm and grit.  We learn to refine our own expertise along the way. We hope this experience will enrich your career. Thinkful may not be your last job, but we want to make it the one you're most proud of. We also want it to be the most engaging one you have today. 
 
 BE IN TOUCH. We are happy to hear from you with any question, comment or concern. 
-
+---
 [PROVIDE FEEDBACK ON THIS DOCUMENT HERE.] (http://goo.gl/forms/i836G4jiWX)
+---
 <!---
 ##Appendix
 ####Useful Resources for Mentors
