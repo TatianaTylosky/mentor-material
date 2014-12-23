@@ -21,7 +21,7 @@
 
 “If you give a man a fish, he will eat for a day. If you teach a man to fish, he will eat for life.” * This proverb is a great analogy for Thinkful’s mission!  
 
-Thinkful was founded by Dan Friedman and Darrell Silver in 2012 in New York City. On a mission to reinvent education, Thinkful teaches the workforce sustainable career skills. 
+Thinkful was founded by Dan Friedman and Darrell Silver in 2012 in New York City. On a mission to reinvent education, Thinkful teaches workforce sustainable career skills. 
 
 Help us advance careers by providing goal oriented one-on-one mentorship to Thinkful students. Our courses are project-driven and supported by a thriving student community. We believe relationships drive learning. As a mentor, the relationships you build are essential for the success of both your students and our mission. We couldn’t be happier to have you on the team. Welcome to Thinkful!
 
