@@ -59,7 +59,7 @@ We usually match students with mentors by hand, but now you can [claim available
 
 Your thinkful.com email is a [**Google Apps**](mail.google.com) account. Your Thinkful email is the primary way you’ll stay in touch with your students and with HQ.  We’ll reach out to this email with general announcements and actionable items like notifications about student project submissions.
 
-We love [**Slack**](slack.comm).  We host the [student community](thinkful-students.slack.com) on one slack team and have another, [internal team](thinkful.slack.com), just for us.  You can think of these as the student lounge and the faculty lounge. Share resources, ask and answer questions, post invitations, promote projects, hang out and make friends across the globe!
+We love [**Slack**](http://slack.comm).  We host the [student community](thinkful-students.slack.com) on one slack team and have another, [internal team](thinkful.slack.com), just for us.  You can think of these as the student lounge and the faculty lounge. Share resources, ask and answer questions, post invitations, promote projects, hang out and make friends across the globe!
 
 You’ll use **video chat** for your weekly meetings with your students.  You’re set up with a default meetingplace at:
 
