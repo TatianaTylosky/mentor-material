@@ -43,21 +43,21 @@ Here’s a brief overview of the tools you will be using as a Thinkful Mentor.
 
 [**Thinkful’s Learning App**] (https://courses.thinkful.com) is home to all of our course content.  As a mentor, you have access to all of the content for each of our courses.  Students have access to the courses they’re enrolled in.
 
-The [**Mentor Panel**](thinkful.com/patel/mentor_panel) is your administrative panel for students.  Once you have students, you’ll see each of them scheduled here.  For each scheduled mentor session you will record session notes.
+The [**Mentor Panel**](http://thinkful.com/patel/mentor_panel) is your administrative panel for students.  Once you have students, you’ll see each of them scheduled here.  For each scheduled mentor session you will record session notes.
 
 Recording sessions is super important.  It’s the best way for you to keep track of your student’s goals and progress, and it’s a key internal metric at Thinkful.  If you aren’t sure how to properly record a session reach out right away.
 
 ![alt text](Assets/SessionRecords.gif "Session Records")
 
-You can also set and update your [availability](thinkful.com/user/#/availability) (keep an eye on the time zone!) and your student bandwidth.
+You can also set and update your [availability](http://thinkful.com/user/#/availability) (keep an eye on the time zone!) and your student bandwidth.
 
 ![alt text](Assets/AvailabilitySlow.gif "Availability")
 
-We usually match students with mentors by hand, but now you can [claim available students](thinkful.com/patel/take_student/) on your own!
+We usually match students with mentors by hand, but now you can [claim available students](http://thinkful.com/patel/take_student/) on your own!
 
 ![alt text](Assets/TakeStudent.gif "Take Student")
 
-Your thinkful.com email is a [**Google Apps**](mail.google.com) account. Your Thinkful email is the primary way you’ll stay in touch with your students and with HQ.  We’ll reach out to this email with general announcements and actionable items like notifications about student project submissions.
+Your thinkful.com email is a [**Google Apps**](http://mail.google.com) account. Your Thinkful email is the primary way you’ll stay in touch with your students and with HQ.  We’ll reach out to this email with general announcements and actionable items like notifications about student project submissions.
 
 We love [**Slack**](http://slack.com).  We host the [student community](http://thinkful-students.slack.com) on one slack team and have another, [internal team](http://thinkful.slack.com), just for us.  You can think of these as the student lounge and the faculty lounge. Share resources, ask and answer questions, post invitations, promote projects, hang out and make friends across the globe!
 
@@ -279,7 +279,7 @@ See “My student wants to skip this week’s session.”
 
 Ok, so your student missed your first session, or they missed two in a row.  It happens. Here is what to do:
 
-1. Log the missed session in your [mentor panel](thinkful.com/patel/mentor_panel) and make a note if you know why
+1. Log the missed session in your [mentor panel](http://thinkful.com/patel/mentor_panel) and make a note if you know why
 2. Do your best to connect with the student and see if you two can reschedule within the week
 3. Email support@thinkful.com so we can ping them as well
 
