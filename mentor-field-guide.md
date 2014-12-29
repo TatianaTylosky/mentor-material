@@ -43,17 +43,17 @@ Here’s a brief overview of the tools you will be using as a Thinkful Mentor.
 
 [**Thinkful’s Learning App**] (https://courses.thinkful.com) is home to all of our course content.  As a mentor, you have access to all of the content for each of our courses.  Students have access to the courses they’re enrolled in.
 
-The [**Mentor Panel**](http://thinkful.com/patel/mentor_panel) is your administrative panel for students.  Once you have students, you’ll see each of them scheduled here.  For each scheduled mentor session you will record session notes.
+The [**Mentor Panel**](https://www.thinkful.com/patel/mentor_panel) is your administrative panel for students.  Once you have students, you’ll see each of them scheduled here.  For each scheduled mentor session you will record session notes.
 
 Recording sessions is super important.  It’s the best way for you to keep track of your student’s goals and progress, and it’s a key internal metric at Thinkful.  If you aren’t sure how to properly record a session reach out right away.
 
 ![alt text](Assets/SessionRecords.gif "Session Records")
 
-You can also set and update your [availability](http://thinkful.com/user/#/availability) (keep an eye on the time zone!) and your student bandwidth.
+You can also set and update your [availability](https://www.thinkful.com/user/#/availability) (keep an eye on the time zone!) and your student bandwidth.
 
 ![alt text](Assets/AvailabilitySlow.gif "Availability")
 
-We usually match students with mentors by hand, but now you can [claim available students](http://thinkful.com/patel/take_student/) on your own!
+We usually match students with mentors by hand, but now you can [claim available students](https://www.thinkful.com/patel/take_student/) on your own!
 
 ![alt text](Assets/TakeStudent.gif "Take Student")
 
@@ -61,13 +61,13 @@ Your thinkful.com email is a [**Google Apps**](http://mail.google.com) account. 
 
 We love [**Slack**](http://slack.com).  We host the [student community](http://thinkful-students.slack.com) on one slack team and have another, [internal team](http://thinkful.slack.com), just for us.  You can think of these as the student lounge and the faculty lounge. Share resources, ask and answer questions, post invitations, promote projects, hang out and make friends across the globe!
 
-You’ll use **video chat** for your weekly meetings with your students.  You’re set up with a default meetingplace at:
+You’ll use **video chat** for your weekly meetings with your students.  You’re set up with a default meeting place at:
 
 thinkful.com/hangout/[username]
 
 where [username] is your @thinkful.com email address.  This link points to a permanent Google Hangout, though we’re currently experimenting with other technologies.  We’ll always share this with you and your students when we make an introduction, so make sure you both you and your student test this tool before your first session. 
 
-We host all of our [**course content** on GitHub] (https://github.com/Thinkful-Ed/) as Markdown, which we then compile.  As a mentor, you’ll have access to the source code for the courses youll work with and you’re welcome to open issues or submit pull requests if you think we can make things better.
+We host all of our [**course content** on GitHub] (https://github.com/Thinkful-Ed/) as Markdown, which we then automatically turn into HTML.  As a mentor, you’ll have access to the source code for the courses youll work with and you’re welcome to open issues or submit pull requests if you think we can make things better.
 
 ---
 
@@ -89,7 +89,7 @@ You will have successful ongoing sessions if you set high expectations and routi
 
 Time: 1 HOUR
 
-Take a look at the concepts and projects outlined in your course. Do this by logging into our [learning app] (https://courses.thinkful.com) and reading through your course or going to our [course pages] (http://www.thinkful.com) and reviewing the syllabus available. _What is being asked of your students? How long will it take them? What will their progress tell you?_ Take some time to anticipate questions and pain-points. 
+Take a look at the concepts and projects outlined in your course. Do this by logging into our [learning app] (https://courses.thinkful.com) and reading through your course or going to our [course pages] (https://www.thinkful.com) and reviewing the syllabus available. _What is being asked of your students? How long will it take them? What will their progress tell you?_ Take some time to anticipate questions and pain-points. 
 
 Be prepared to suggest customized learning paths and pacing through course based on your student’s goals and experience. 
 
@@ -178,7 +178,7 @@ Just like no two games are the same, no two sessions will be exactly alike. Ever
 
 **Socratic Method**
 
-The Socratic Method is ancient educational technology.  It’s also [state of the art](http://jorendorff.github.io/hackday/2013/tutoring).  Here’s an example:  Let’s say a student came and asked you: “Why doesn’t this Python code work?: `print ‘yes’ + 3`”
+The Socratic Method is ancient educational technology.  It’s also [state of the art](http://jorendorff.github.io/hackday/2013/tutoring). Here’s an example: Let’s say a student came and asked you: “Why doesn’t this Python code work?: `print 'yes' + 3`”
 
 A **non-Socratic** response might be:  “_Because you can’t concatenate strings and integers._”
 
@@ -230,13 +230,13 @@ _Tip: This is a great technique to use when your student is rushing through mate
 
 Many students can make something that works without understanding *why* it works. Asking them to review their code and explain what each line does allows them to recognize the “why” behind each action. Be sure to call out areas that could be improved with questions like, “Why did you choose to call this method?” or “Are there any other ways that can be done?” In a code tour, you can also suggest other implementation alternatives, challenging the student to weigh all options.
 
-**Code Review**
-
-To come.
-
 **Pair Programming**
 
 Pair programming is a great way to teach students how to tackle problems and gives them incredible insight to a method that many programmers use every day. Read up on [Pair-Programming Styles] (http://agilerichmond.com/attachments/article/82/Pair%20Programming%20Handout.pdf). We recommend you be the navigator! Tools like madeye.io and nitrous.io are great for this, but feel free to suggest your favorite.
+
+**Code Review**
+
+In lieu of pair programming, reviewing code your student wrote and delivering constructive criticism on the different parts is also great help in their learning. In delivering the review, be friendly but firm, and always focus on the code at hand, not on the student. You are not the code you write, and the feedback must convey this so that the student focuses on the review and doesn't take things personally.
 
 **Awesome Analogies**
 
@@ -263,7 +263,7 @@ Yes. Part of being a mentor is sharing your best practices, workflows and tools 
 
 **My student wants to skip this week's session.**
 
-Nope.  Use all of your power to make the meeting happen. As the course work gets tougher and life intervenes it gets tempting to skip sessions. Sometimes students think it’s a waste of time to meet if they haven’t made progress, but the opposite is true.  Ask them to commit to meeting for only 10 minutes even if they have no material prepared.
+Nope. Use all of your power to make the meeting happen. As the course work gets tougher and life intervenes it gets tempting to skip sessions. Sometimes students think it’s a waste of time to meet if they haven’t made progress, but the opposite is true.  Ask them to commit to meeting for only 10 minutes even if they have no material prepared.
 
 10 Minute Activities:
 + Share a best practice
@@ -279,14 +279,14 @@ See “My student wants to skip this week’s session.”
 
 Ok, so your student missed your first session, or they missed two in a row.  It happens. Here is what to do:
 
-1. Log the missed session in your [mentor panel](http://thinkful.com/patel/mentor_panel) and make a note if you know why
+1. Log the missed session in your [mentor panel](https://www.thinkful.com/patel/mentor_panel) and make a note if you know why
 2. Do your best to connect with the student and see if you two can reschedule within the week
 3. Email support@thinkful.com so we can ping them as well
 
 Support will be sure to copy you on emails with the student.  Sometimes people just disappear; if we never hear back we’ll go ahead and remove them from your calendar.
 
 **My student is behind pace**
-Thinkful courses are self paced, so students can’t _truly_ get behind pace.  That said, most students want to finish the course in a few months and it’s good to hold them accountable to those goals.  If a student falls behind the pacing goals they set for themselves be honest with them about their pace and motivate them to put in the hours each week to get back on top.
+Thinkful courses are self paced, so students can’t _truly_ get behind pace. That said, most students want to finish the course in a few months and it’s good to hold them accountable to those goals. If a student falls behind the pacing goals they set for themselves be honest with them about their pace and motivate them to put in the hours each week to get back on top.
 
 **What should I do if a student wants to go way off the curriculum?**
 
