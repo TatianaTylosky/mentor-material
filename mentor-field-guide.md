@@ -67,7 +67,7 @@ thinkful.com/hangout/[username]
 
 where [username] is your @thinkful.com email address.  This link points to a permanent Google Hangout, though we’re currently experimenting with other technologies.  We’ll always share this with you and your students when we make an introduction, so make sure you both you and your student test this tool before your first session. 
 
-We host all of our [**course content** on GitHub] (https://github.com/Thinkful-Ed/) as Markdown, which we then automatically turn into HTML.  As a mentor, you’ll have access to the source code for the courses youll work with and you’re welcome to open issues or submit pull requests if you think we can make things better.
+We host all of our [**course content** on GitHub] (https://github.com/Thinkful-Ed/) as Markdown, which we then automatically turn into HTML.  As a mentor, you’ll have access to the source code for the courses you'll work with and you’re welcome to open issues or submit pull requests if you think we can make things better.
 
 ---
 
@@ -135,7 +135,7 @@ Don’t be afraid to be honest with your student about the time commitment requi
 
 *Push back where goals are unrealistic.
 
->_"At this point a look of fear and of being overwhelmed sets in and I assure them that they are gonna knock it out of the park.  I'll usually tell them to not memorized specifics but memorize the concepts.” -Derek Fogge, Thinkful Mentor_
+>_"At this point a look of fear and of being overwhelmed sets in and I assure them that they are gonna knock it out of the park.  I'll usually tell them to not memorized specifics but to understand the concepts.” -Derek Fogge, Thinkful Mentor_
 
 Remind students of resources to lean on outside of mentor sessions, a.k.a. #slack/stackoverflow/office-hours. Finally, set a specific goal for your student to achieve by your next meeting.
 
@@ -170,11 +170,11 @@ Whichever approach you prefer, commit to it.
 ##Chapter 4
 ###The Socratic Method and Other Coaching Strategies
 
-A coach is someone who can give correction without causing resentment. - John Wooden
+"A coach is someone who can give correction without causing resentment." - John Wooden
 
 **Be a Coach**
 
-Just like no two games are the same, no two sessions will be exactly alike. Every student has a different learning style, and it’s up to you to write their playbook. Hold your students accountable to themselves. Know their strengths and weaknesses. Plan drills and set training schedules. Use the strategies below to ensure every minute spent with your student is working toward achieving their goal. 
+Just like no two games are the same, no two sessions will be exactly alike. Every student has a different learning style, and it’s up to you to write their playbook. Hold your students accountable to themselves. Know their strengths and weaknesses. Use the strategies below to ensure every minute spent with your student is working toward achieving their goal.
 
 **Socratic Method**
 
@@ -215,10 +215,11 @@ Some things Thinkful does to scaffold curriculum:
 + Describing objectives in the unit/lesson intros
 
 A few things you can do to scaffold curriculum:
-+ Send students a list of terms to know before they start a lesson 
 + Relate new lessons/assignments to skills/concepts learned previously
 + Show students models or examples of what they will be building 
 + Share follow-up readings or set an additional stretch goal with your students
++ Tell your student to write down questions for you as they go through
+  the curriculum
 
 **Teach the Teacher**
 
@@ -244,7 +245,7 @@ Research proves that deep learning occurs when new knowledge is linked with prio
 
 **Personal Praise v. Process Praise**
 
-Personal praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes. Instead, it is more effective to provide feedback on a student's process by objectively stating how hard a problem was and acknowledging the student's problem solving approach or her work ethic. 
+Personal praise like, “Wow, you did an amazing job!” or, “You are so good at this!” does not increase student outcomes. Instead, it is more effective to provide feedback on a student's process by objectively stating how hard a problem was and acknowledging the student's problem solving approach or her work ethic.
 
 Similarly, avoid explicitly stating that your student has made a mistake. Let your students find their own errors. Provide hints by asking about specific lines of code and why they wrote them that way. Keep working backward until they are able to self-correct.
 
